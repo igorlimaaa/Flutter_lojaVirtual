@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861462822438",
+    "firebase_url": "https://flutterlojavirtual-26092.firebaseio.com",
+    "project_id": "flutterlojavirtual-26092",
+    "storage_bucket": "flutterlojavirtual-26092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861462822438:android:4b78127cbd2b8a4c9870e7",
+        "android_client_info": {
+          "package_name": "igorlima.com.br.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861462822438-8npre2a8ialaovflitpvfjhtgc51sn97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw5Kz9riQQOTzra0YTLUvyZBVb-ns5V_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861462822438-8npre2a8ialaovflitpvfjhtgc51sn97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

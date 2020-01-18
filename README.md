@@ -1,1 +1,1 @@
-# flutter_lojavirtual
+Aplicativo desenvolvido na aula 08 do curso de Flutter. 
